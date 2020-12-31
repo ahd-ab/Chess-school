@@ -1,0 +1,2 @@
+# Chess-school
+School project
